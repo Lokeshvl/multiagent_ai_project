@@ -88,7 +88,6 @@ Example searches:
 | Gemini Integration | ✅ Done |
 | Dataset Suggestions| ✅ Done |
 | UI (Streamlit App) | ✅ Done |
-| Report             | ✅ Done |
 
 ---
 
